@@ -1,0 +1,18 @@
+background_opacity: 0.8
+font:
+  normal:
+    family: Migu 1M
+    style: Regular
+  bold:
+    family: Migu 1M
+    style: Bold
+  italic:
+    family: Migu 1M
+    style: Italic
+  bold_italic:
+    family: Migu 1M
+    style: Bold Italic
+  size: 10
+  offset:
+    x: 0
+    y: 2
